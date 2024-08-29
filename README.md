@@ -9,14 +9,23 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 Step 1: Start.
+
 Step 2: Import the standard libraries in python required for finding Gradient Design.
+
 Step 3: Read the dataset file and check any null value using .isnull() method.
+
 Step 4: Declare the default variables with respective values for linear regression.
+
 Step 5: Calculate the loss using Mean Square Error.
+
 Step 6: Predict the value of y.
+
 Step 7: Plot the graph respect to hours and scores using .scatterplot() method for Linear Regression.
+
 Step 8: Plot the graph respect to loss and iterations using .plot() method for Gradient Descent.
+
 Step 9: End.
+
 ## Program:
 ```
 /*
