@@ -70,6 +70,7 @@ DATA.HEAD()
 
 prediction
 [[-0.42925552]]
+
 Predicted valeue: [[192932.45813544]]
 
 
